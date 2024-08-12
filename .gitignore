@@ -1,0 +1,5 @@
+myenv/
+uploaded_pdfs/
+Knowledge_Base/
+embeddings.faiss
+metadata.npy
